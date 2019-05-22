@@ -8,17 +8,17 @@
 # Site settings
 title:  纯洁的微笑
 subtitle: 分享技术，品味人生
-name: 纯洁的微笑 
-email: ityouknow@126.com
+name: 纯洁的微笑
+email: chanxinguidao@126.com
 description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+keywords: chanxinguidao,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
 encoding: "utf-8"
-favicon: favicon.ico 
+favicon: favicon.ico
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: chanxinguidao/chanxinguidao.github.io
+github_url: https://github.com/chanxinguidao
+url: http://www.chanxinguidao.com
+enforce_ssl: chanxinguidao.com
 
 ## Gem
 plugins:
@@ -28,7 +28,7 @@ plugins:
   - kramdown
   - jekyll-github-metadata
   - jekyll-octicons
-  
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
@@ -115,7 +115,7 @@ navs:
     target: _self
 
   -
-    
+
     href: http://www.justdojava.com
     label: Java
     target: _blank
@@ -136,7 +136,7 @@ labels:
 
   -
     href: /payment.html
-    label: 支付     
+    label: 支付
     target: _self
 
   -
@@ -156,17 +156,17 @@ labels:
 
   -
     href: /open-source.html
-    label: Code  
+    label: Code
     target: _blank
 
   -
     href: /it.html
-    label: IT 
+    label: IT
     target: _blank
 
   -
     href: /python.html
-    label: Python  
+    label: Python
     target: _blank
 
 
@@ -220,19 +220,19 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: chanxinguidao
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: chanxinguidao
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+        client_id: d67652d2c49c7958abb4
+        client_secret: 93b0961a0a6a6b50b5f1cd7b1c6e56f971098c68
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: chanxinguidao
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
+    clientID: d67652d2c49c7958abb4
+    clientSecret: 93b0961a0a6a6b50b5f1cd7b1c6e56f971098c68
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true

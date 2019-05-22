@@ -39,6 +39,7 @@
                 if ($(item).attr("data-category") == hash) {
                     $(item).addClass("active");
                     var posts = $(item).attr("data-posts").split("||");
+                    var SpringClouds = $(item).attr("data-posts").split("||");
                     $("#posts-list .posts-list-item").each(function (i, item) {
                         $.inArray($(item).attr("data-title"), posts) != -1 ? $(item).show() : $(item).hide();
                     });

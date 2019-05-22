@@ -1,8 +1,8 @@
 ---
 layout: page
-title: All My Blogs
+title: SpringCloud
 subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Take notes about everything new
-menu: blog
+menu: SpringCloud
 css: ['blog-page.css']
 ---
-{% include blog-page.html %}
+{% include springcloud.html %}

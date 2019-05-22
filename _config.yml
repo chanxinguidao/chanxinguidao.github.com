@@ -68,7 +68,7 @@ navs:
     label: Blog
 
   - href: /SpringCloud
-    label: Spring Cloud
+    label: SpringCloud
 
   -
     href: /bookmark
@@ -79,7 +79,7 @@ navs:
     label: About
 
 # Sidebar to show popular repo
-side_bar_repo_limit: 5 # Number of repos to show
+side_bar_repo_limit: 6 # Number of repos to show
 
 # Google Analytics
 analytics :

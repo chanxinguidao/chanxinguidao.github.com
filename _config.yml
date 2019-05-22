@@ -11,7 +11,7 @@ name: 禅心诡道 # ex. DONGChuan
 email: 693196756@qq.com
 location: 福建省福州市 # ex. Nice, France
 company: MyCompany
-company_url: my_company_website
+company_url: http://www.goktech.cn/
 github_url: my_github_url # ex. https://github.com/DONGChuan
 github_username: # ex. DONGChuan
 description: description_of_your_web_site
@@ -64,9 +64,11 @@ navs:
     href: /open-source
     label: Open-Source
 
-  -
-    href: /blog
+  - href: /blog
     label: Blog
+
+  - href: /SpringCloud
+    label: Spring Cloud
 
   -
     href: /bookmark

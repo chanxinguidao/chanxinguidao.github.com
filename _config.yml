@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Yummy Theme # ex. I m Chuan
+title: 分享技术，品味人生 # ex. I m Chuan
 name: 禅心诡道 # ex. DONGChuan
 email: 693196756@qq.com
 location: 福建省福州市 # ex. Nice, France
 company: MyCompany
-company_url: my_company_website
+company_url: http://www.goktech.cn/
 github_url: my_github_url # ex. https://github.com/DONGChuan
 github_username: # ex. DONGChuan
 description: description_of_your_web_site
@@ -21,7 +21,7 @@ repository: github_username/github_username.github.io # ex. DONGChuan/DONGChuan.
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: http://localhost:4000
+url: https://chanxinguidao.github.io
 
 ## Gem
 gems:
@@ -64,9 +64,11 @@ navs:
     href: /open-source
     label: Open-Source
 
-  -
-    href: /blog
+  - href: /blog
     label: Blog
+
+  - href: /SpringCloud
+    label: SpringCloud
 
   -
     href: /bookmark
@@ -77,7 +79,7 @@ navs:
     label: About
 
 # Sidebar to show popular repo
-side_bar_repo_limit: 5 # Number of repos to show
+side_bar_repo_limit: 6 # Number of repos to show
 
 # Google Analytics
 analytics :

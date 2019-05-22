@@ -5,4 +5,4 @@ subtitle: <span class="mega-octicon octicon-clippy"></span>&nbsp;&nbsp; Take not
 menu: SpringCloud
 css: ['blog-page.css']
 ---
-{% include springcloud.html %}
+{% include SpringCloud.html %}

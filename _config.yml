@@ -104,14 +104,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
   owner: chanxinguidao
-  repo: blog-comments
+  repo: github.com/chanxinguidao/chanxinguidao.github.com
   oauth:
     client_id: d67652d2c49c7958abb4
     client_secret: 93b0961a0a6a6b50b5f1cd7b1c6e56f971098c68
 # https://github.com/gitalk/gitalk#install
 gitalk:
   owner: chanxinguidao
-  repo: blog-comments
+  repo: github.com/chanxinguidao/chanxinguidao.github.com
   clientID: d67652d2c49c7958abb4
   clientSecret: 93b0961a0a6a6b50b5f1cd7b1c6e56f971098c68
 # 在使用其它评论组件时可点击显示 Disqus
@@ -120,7 +120,7 @@ comments:
   gitalk: true
   gitalk_clientID: d67652d2c49c7958abb4
   gitalk_Secret: 93b0961a0a6a6b50b5f1cd7b1c6e56f971098c68
-  gitalk_repo: chanxinguidao.github.io
+  gitalk_repo: github.com/chanxinguidao/chanxinguidao.github.com
   gitalk_owner: chanxinguidao
   gitalk_admin: chanxinguidao
   distractionFreeMode: true

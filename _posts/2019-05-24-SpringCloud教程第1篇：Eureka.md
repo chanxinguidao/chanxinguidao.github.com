@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "SpringCloud教程第1篇：Eureka"
+date:   2019-05-24 13:25:35 +0200
+categories: SpringCloud
+---
 ## 一、spring cloud简介
 
 spring cloud 为开发人员提供了快速构建分布式系统的一些工具，包括配置管理、服务发现、断路器、路由、微代理、事件总线、全局锁、决策竞选、分布式会话等等。它运行环境简单，可以在开发人员的电脑上跑。另外说明spring cloud是基于springboot的，所以需要开发中对springboot有一定的了解，另外对于“微服务架构” 不了解的话，可以通过搜索引擎搜索“微服务架构”了解或者关注[微服务扫盲](https://chanxinguidao.github.io/springcloud/2019/05/23/SpringCloud-%E6%89%AB%E7%9B%B2%E7%AF%87.html) 可以直接在底下留言。

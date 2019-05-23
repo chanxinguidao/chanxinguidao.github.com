@@ -122,7 +122,7 @@ server.servlet.context-path=/first
 
 通过eureka.client.registerWithEureka：false和fetchRegistry：false来表明自己是一个eureka server.
 
-**2.5** eureka server 是有界面的，启动工程,打开浏览器访问： http://localhost:8761/first/ ,界面如下：
+**2.5** eureka server 是有界面的，启动工程,打开浏览器访问： [http://localhost:8761/first/ ](http://localhost:8761/first/ ),界面如下：
 
 ![Paste_Image.png](https://chanxinguidao.github.io/assets/images/springcloud5.png)
 
@@ -263,13 +263,13 @@ eureka:
       defaultZone: http://localhost:8761/first/eureka/
 ```
 
-需要指明spring.application.name,这个很重要，这在以后的服务与服务之间相互调用一般都是根据这个name 。 启动工程，打开hhttp://localhost:8761/first/ ，即eureka server 的网址：
+需要指明spring.application.name,这个很重要，这在以后的服务与服务之间相互调用一般都是根据这个name 。 启动工程，打开[http://localhost:8761/first/ ](http://localhost:8761/first/ )，即eureka server 的网址：
 
 ![Paste_Image.png](https://chanxinguidao.github.io/assets/images/springcloud6.png)
 
 你会发现一个服务已经注册在服务中了，服务名为SERVICE-HI ,端口为8086
 
-源码下载：https://github.com/chanxinguidao/SpringCloudLearning/tree/master/chapter1
+源码下载：[https://github.com/chanxinguidao/SpringCloudLearning/tree/master/chapter1](https://github.com/chanxinguidao/SpringCloudLearning/tree/master/chapter1)
 
 ## 四、参考资料
 

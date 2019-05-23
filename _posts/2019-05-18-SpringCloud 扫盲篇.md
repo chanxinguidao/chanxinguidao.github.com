@@ -3,6 +3,7 @@ layout: post
 title:  "SpringCloud教程第0篇：微服务架构"
 date:   2019-05-18 13:25:35 +0200
 categories: SpringCloud
+category: SpringCloud
 ---
 # SpringCloud 扫盲篇
 

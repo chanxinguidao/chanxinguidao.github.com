@@ -3,6 +3,7 @@ layout: post
 title:  "SpringCloud教程第1篇：Eureka"
 date:   2019-05-20 13:25:35 +0200
 categories: SpringCloud
+category: SpringCloud
 ---
 ## 一、spring cloud简介
 

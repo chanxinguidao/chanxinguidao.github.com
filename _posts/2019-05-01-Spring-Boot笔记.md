@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Spring Boot笔记"
+title:  "SpringBoot教程第0篇：札记"
 date:   2019-05-01 13:25:35 +0200
-categories: spring
+categories: SpringBoot
 ---
 # **一、**Spring Boot 入门
 

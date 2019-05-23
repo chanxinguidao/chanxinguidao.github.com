@@ -65,8 +65,9 @@ navs:
     label: Open-Source
 
   -
-
+    href: /java.html
     label: Java
+    target: _self
     subnav:
 
       -
@@ -78,8 +79,9 @@ navs:
 
 
   -
-
+    href: /spring-boot.html
     label: Spring
+    target: _self
     subnav:
 
 

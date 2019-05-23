@@ -64,13 +64,37 @@ navs:
     href: /open-source
     label: Open-Source
 
-  - href: /blog
-    label: Blog
+  -
+
+    label: Java
+    subnav:
+
+      -
+        subHref: /java-base.html
+        subLabel: Java基础
+      -
+        subHref: /java-thread.html
+        subLabel: Java线程
+
 
   -
-    href: /bookmark
-    label: Bookmark
 
+    label: Spring
+    subnav:
+
+
+      -
+        subHref: /spring-boot.html
+        subLabel: Spring Boot
+
+      -
+        subHref: /spring-cloud.html
+        subLabel: Spring Cloud
+
+  -
+    href: /archives.html
+    label: Archives
+    target: _self
   -
     href: /about
     label: About

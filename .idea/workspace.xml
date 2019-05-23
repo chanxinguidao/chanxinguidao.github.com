@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb5dcfeb-38a6-4f3e-8831-0a069f276fb2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_includes/spring-boot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/spring-cloud.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringCloud.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/SpringCloud.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-05-01-Spring-Boot笔记.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-01-Spring-Boot笔记.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-23-SpringCloud 扫盲篇.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-18-SpringCloud 扫盲篇.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-24-SpringCloud教程第1篇：Eureka.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-20-SpringCloud教程第1篇：Eureka.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,43 +22,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-05-01-Spring-Boot笔记.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-18-SpringCloud 扫盲篇.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="88">
-                <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-                <folding>
-                  <element signature="e#116#117#0" expanded="true" />
-                  <element signature="e#153#154#0" expanded="true" />
-                  <element signature="e#916#917#0" expanded="true" />
-                  <element signature="e#951#952#0" expanded="true" />
-                  <element signature="e#1509#1510#0" expanded="true" />
-                  <element signature="e#1564#1565#0" expanded="true" />
-                  <element signature="e#597#598#0" expanded="true" />
-                  <element signature="e#642#643#0" expanded="true" />
-                  <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-                  <element signature="e#151#152#0" expanded="true" />
-                  <element signature="e#195#196#0" expanded="true" />
-                  <element signature="e#286#287#0" expanded="true" />
-                  <element signature="e#365#366#0" expanded="true" />
-                  <element signature="e#195#196#0" expanded="true" />
-                  <element signature="e#271#272#0" expanded="true" />
-                  <element signature="e#242#243#0" expanded="true" />
-                  <element signature="e#322#323#0" expanded="true" />
-                  <element signature="e#271#272#0" expanded="true" />
-                  <element signature="e#300#301#0" expanded="true" />
-                  <element signature="e#343#344#0" expanded="true" />
-                  <element signature="e#379#380#0" expanded="true" />
-                  <element signature="e#411#412#0" expanded="true" />
-                  <element signature="e#440#441#0" expanded="true" />
-                  <element signature="e#483#484#0" expanded="true" />
-                  <element signature="e#519#520#0" expanded="true" />
-                  <element signature="e#142#143#0" expanded="true" />
-                  <element signature="e#180#181#0" expanded="true" />
-                  <element signature="e#250#251#0" expanded="true" />
-                  <element signature="e#304#305#0" expanded="true" />
-                </folding>
+                <caret line="4" column="23" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -57,12 +35,87 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-05-24-SpringCloud教程第1篇：Eureka.md">
+        <entry file="file://$PROJECT_DIR$/_includes/spring-cloud.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feed.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="458">
+              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="44">
-                <caret line="2" column="32" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="32" />
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-01-Spring-Boot笔记.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="88">
+                <caret line="4" column="22" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="22" />
+                <folding>
+                  <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+                </folding>
               </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/spring-boot.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/open-source.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
               <second_editor />
             </state>
           </provider>
@@ -93,6 +146,8 @@
       <find>age.title</find>
       <find>gitalk = new Gi</find>
       <find>(images</find>
+      <find>guli</find>
+      <find>at</find>
     </findStrings>
     <replaceStrings>
       <replace>(https://chanxinguidao.github.io/assets/images/</replace>
@@ -110,15 +165,19 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_includes/blog-page.html" />
         <option value="$PROJECT_DIR$/_includes/SpringCloud.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/open-source-page.html" />
         <option value="$PROJECT_DIR$/_includes/about.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_includes/comments.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_posts/2019-05-24-SpringCloud教程第1篇：Eureka.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-23-SpringCloud 扫盲篇.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-01-Spring-Boot笔记.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-24-SpringCloud教程第1篇：Eureka.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-18-SpringCloud 扫盲篇.md" />
+        <option value="$PROJECT_DIR$/_includes/spring-cloud.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/SpringCloud.md" />
+        <option value="$PROJECT_DIR$/_includes/spring-boot.html" />
       </list>
     </option>
   </component>
@@ -148,35 +207,12 @@
             <path>
               <item name="chanxinguidao.github.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="chanxinguidao.github.com" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="chanxinguidao.github.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="chanxinguidao.github.com" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chanxinguidao.github.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chanxinguidao.github.com" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chanxinguidao.github.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chanxinguidao.github.com" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chanxinguidao.github.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chanxinguidao.github.com" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="chanxinguidao.github.com" type="b2602c69:ProjectViewProjectNode" />
-              <item name="chanxinguidao.github.com" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,7 +224,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558597004973" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558604720839" />
     <property name="editorconfig.notification" value="ignore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -197,8 +233,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\images" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\_includes" />
+      <recent name="D:\Users\69319\Documents\chanxinguidao.github.com" />
+      <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\images" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\js" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\css" />
     </key>
@@ -228,7 +265,7 @@
       <workItem from="1558504851549" duration="800000" />
       <workItem from="1558536107341" duration="6563000" />
       <workItem from="1558563312150" duration="3722000" />
-      <workItem from="1558576500469" duration="4356000" />
+      <workItem from="1558576500469" duration="6636000" />
     </task>
     <task id="LOCAL-00001" summary="111">
       <created>1558539496283</created>
@@ -377,11 +414,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558596906069</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="SpringBoot教程第0篇：札记">
+      <created>1558597019076</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1558597019076</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15441000" />
+    <option name="totallyTimeSpent" value="17721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -445,9 +489,6 @@
     <entry file="file://$PROJECT_DIR$/_includes/sidebar-popular-repo.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/SpringCloud.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/pagination.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -507,16 +548,6 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/feed.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/open-source-page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -573,21 +604,38 @@
     <entry file="file://$PROJECT_DIR$/assets/images/springcloud4.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-05-14-Example-No-Sidebar-Nav.markdown">
+    <entry file="file://$PROJECT_DIR$/assets/js/search.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/springcloud1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/springcloud2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-20-SpringCloud教程第1篇：Eureka.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="220">
-            <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <first_editor relative-caret-position="66">
+            <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+            <folding>
+              <element signature="imports" expanded="true" />
+              <element signature="e#356#357#0" expanded="true" />
+              <element signature="e#431#432#0" expanded="true" />
+              <element signature="imports" expanded="true" />
+              <element signature="e#347#348#0" expanded="true" />
+              <element signature="e#421#422#0" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-04-22-CSS-Animation.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-05-14-Example-No-Sidebar-Nav.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="352">
-            <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
           </first_editor>
           <second_editor />
         </state>
@@ -601,31 +649,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-23-SpringCloud 扫盲篇.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2016-04-22-CSS-Animation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="506">
-            <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="4" selection-start-line="4" selection-end-line="4" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/search.js">
+    <entry file="file://$PROJECT_DIR$/_includes/SpringCloud.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/springcloud2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-24-SpringCloud教程第1篇：Eureka.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-18-SpringCloud 扫盲篇.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="32" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="32" />
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="23" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="23" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/spring-cloud.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feed.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpringCloud.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/open-source.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -634,40 +733,19 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="88">
-            <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <caret line="4" column="22" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="22" />
             <folding>
-              <element signature="e#116#117#0" expanded="true" />
-              <element signature="e#153#154#0" expanded="true" />
-              <element signature="e#916#917#0" expanded="true" />
-              <element signature="e#951#952#0" expanded="true" />
-              <element signature="e#1509#1510#0" expanded="true" />
-              <element signature="e#1564#1565#0" expanded="true" />
-              <element signature="e#597#598#0" expanded="true" />
-              <element signature="e#642#643#0" expanded="true" />
               <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
-              <element signature="e#151#152#0" expanded="true" />
-              <element signature="e#195#196#0" expanded="true" />
-              <element signature="e#286#287#0" expanded="true" />
-              <element signature="e#365#366#0" expanded="true" />
-              <element signature="e#195#196#0" expanded="true" />
-              <element signature="e#271#272#0" expanded="true" />
-              <element signature="e#242#243#0" expanded="true" />
-              <element signature="e#322#323#0" expanded="true" />
-              <element signature="e#271#272#0" expanded="true" />
-              <element signature="e#300#301#0" expanded="true" />
-              <element signature="e#343#344#0" expanded="true" />
-              <element signature="e#379#380#0" expanded="true" />
-              <element signature="e#411#412#0" expanded="true" />
-              <element signature="e#440#441#0" expanded="true" />
-              <element signature="e#483#484#0" expanded="true" />
-              <element signature="e#519#520#0" expanded="true" />
-              <element signature="e#142#143#0" expanded="true" />
-              <element signature="e#180#181#0" expanded="true" />
-              <element signature="e#250#251#0" expanded="true" />
-              <element signature="e#304#305#0" expanded="true" />
             </folding>
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/spring-boot.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
         </state>
       </provider>
     </entry>

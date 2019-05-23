@@ -69,6 +69,10 @@ navs:
     label: Java
     target: _self
     subnav:
+
+      -
+        subHref: /java-base.html
+        subLabel: Java基础
       -
         subHref: /java-thread.html
         subLabel: Java线程
@@ -78,10 +82,6 @@ navs:
     href: /spring-boot.html
     label: Spring
     target: _self
-      -
-      subHref: /java-base.html
-      subLabel: Java基础
-
     subnav:
 
 

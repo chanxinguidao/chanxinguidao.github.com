@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "SpringCloud教程第2篇：Ribbon"
+date:   2019-05-25 13:25:35 +0200
+categories: SpringCloud
+category: SpringCloud
+---
 [在上一篇文章](https://chanxinguidao.github.io/springcloud/2019/05/20/SpringCloud%E6%95%99%E7%A8%8B%E7%AC%AC1%E7%AF%87-Eureka.html)，讲了服务的注册和发现。在微服务架构中，业务都会被拆分成一个独立的服务，服务与服务的通讯是基于http restful的。Spring cloud有两种服务调用方式，一种是ribbon+restTemplate，另一种是feign。在这一篇文章首先讲解下基于ribbon+rest。
 
 ## 一、ribbon简介
@@ -6,7 +13,7 @@
 >
 > —–摘自官网
 
-ribbon是一个负载均衡客户端，可以很好的控制htt和tcp的一些行为。Feign默认集成了ribbon。
+ribbon是一个负载均衡客户端，可以很好的控制http和tcp的一些行为。Feign默认集成了ribbon。
 
 ribbon 已经默认实现了这些配置bean：
 
@@ -87,15 +94,15 @@ public class HelloCloudController {
 2. 启动eureka-client工程，它的端口为8086；
 3. 利用 maven打个package，然后 使用 命令可以随意运行多个端口（springboot基础）
 
-![](https://chanxinguidao.github.io/assets/images/springcloud/chapter/1.png)
+![](https://chanxinguidao.github.io/assets/images/springcloud/chapter2/1.png)
 
-![](https://chanxinguidao.github.io/assets/images/springcloud/chapter/2.png)
+![](https://chanxinguidao.github.io/assets/images/springcloud/chapter2/2.png)
 
 
 
 ，这时你会发现：eureka-client在eureka-server注册了2个实例，这就相当于一个小的集群。访问[http://localhost:8761/second](http://localhost:8761/second)如图所示：
 
-![](https://chanxinguidao.github.io/assets/images/springcloud/chapter/3.png)
+![](https://chanxinguidao.github.io/assets/images/springcloud/chapter2/3.png)
 
 ## 三、建一个服务消费者
 
@@ -103,7 +110,7 @@ public class HelloCloudController {
 
 操作如下图：
 
-![](https://chanxinguidao.github.io/assets/images/springcloud/chapter/4.png)
+![](https://chanxinguidao.github.io/assets/images/springcloud/chapter2/4.png)
 
 
 
@@ -273,7 +280,7 @@ public class HelloController {
 
 启动service-ribbon，刷新eureka-service可以看到：
 
-![](https://chanxinguidao.github.io/assets/images/springcloud/chapter/6.png)
+![](https://chanxinguidao.github.io/assets/images/springcloud/chapter2/6.png)
 
 在浏览器上多次访问[http://localhost:8777/hello?name=chanxinguidao](http://localhost:8777/hello?name=chanxinguidao)，浏览器交替显示：
 
@@ -285,7 +292,7 @@ public class HelloController {
 
 ## 四、此时的架构
 
-![此时架构图.png](https://chanxinguidao.github.io/assets/images/springcloud/chapter/7.png)
+![此时架构图.png](https://chanxinguidao.github.io/assets/images/springcloud/chapter2/7.png)
 
 - 一个服务注册中心，eureka server,端口为8761
 - eureka-client工程跑了两个实例，端口分别为8085 和 8088，分别向服务注册中心注册

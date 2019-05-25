@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SpringBoot教程第0篇：札记"
+title:  "SpringBoot教程第0篇：入门集锦"
 date:   2019-05-01 13:25:35 +0200
 categories: SpringBoot
 category: SpringBoot

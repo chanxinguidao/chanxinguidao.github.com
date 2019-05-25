@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SpringCloud教程第2篇：Ribbon"
+title:  "SpringCloud教程第2篇：Ribbon（负载均衡）"
 date:   2019-05-25 13:25:35 +0200
 categories: SpringCloud
 category: SpringCloud

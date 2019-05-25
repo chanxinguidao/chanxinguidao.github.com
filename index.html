@@ -22,6 +22,11 @@ css: ['index.css', 'sidebar-popular-repo.css']
                 <span class="octicon octicon-mark-github"></span>
                 <a href="{{ site.github_url }}" target="_blank">@{{ site.github_username }}</a>
             </span> {% endif %}
+            {% if site.subTitle %}
+            <span class="meta-info hvr-grow">
+                <span class="octicon octicon-megaphone"></span>
+                 @{{ site.subTitle }}
+            </span> {% endif %}
         </div>
     </div>
 </section>

@@ -14,6 +14,7 @@ company: 每一份教程，我都会亲手敲一遍，如果你学习过程遇�
 company_url: https://www.processon.com/view/5c89f14ae4b0f88919ad93e1#map
 github_url: https://github.com/chanxinguidao # ex. https://github.com/DONGChuan
 github_username: # ex. DONGChuan
+subTitle: 网络代码千千万，适合自己最好看，没有资源没有选择，资源太多选择困难，写这博客的思路是《适配器模式》
 description: 而立之年，方知代码才是真爱
 favicon: favicon.png # Image must be in assets/images
 repository: github.com/chanxinguidao/chanxinguidao.github.com # ex. DONGChuan/DONGChuan.github.io

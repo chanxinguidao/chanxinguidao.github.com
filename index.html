@@ -25,7 +25,7 @@ css: ['index.css', 'sidebar-popular-repo.css']
             {% if site.subTitle %}
             <span class="meta-info hvr-grow">
                 <span class="octicon octicon-megaphone"></span>
-                 @{{ site.subTitle }}
+                <a href="{{ site.subTitle_url }}" target="_blank">@{{ site.subTitle }}</a>
             </span> {% endif %}
         </div>
     </div>

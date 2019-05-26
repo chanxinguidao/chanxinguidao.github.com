@@ -17,7 +17,8 @@ spring boot 它的设计目的就是为例简化开发，开启了各种自动�
 
 但是{
 
-​		技术是服务于业务的，国内一线城市技术的不断迭代，架构不断升级，这没有问题，因为业务需要这样的架构。然而，在非一线城市的同样也有软件公司，尤其是一些体量庞大的体系类的，例如：银行、运营商、电力等他们追求的是稳定，一个项目往往都承载了非常多的业务和生产数据。并非轻易可改变，技术最终还是要能创造价值而非一味求新。毕竟从编程的发展来看新技术学习成本是越来越低，门槛也低。
+​		技术是服务于业务的，国内一线城市技术的不断迭代，架构不断升级，这没有问题，因为业务需要这样的架构。然而，在非一线城市的同样也有软件公司，尤其是一些体量庞大的体系类的，例如：银行、运营商、电力等他们追求的是稳定，一个项目往
+往都承载了非常多的业务和生产数据。并非轻易可改变，技术最终还是要能创造价值而非一味求新。毕竟从编程的发展来看新技术学习成本是越来越低，门槛也低。
 
 ​		以上代表个人观点，毕竟去年还在一个成熟的EKP平台见证了struts1，历经了struts1，struts2，ssm，到目前的springboot。一路走来，技术越来越简单了，思维越来越重要。
 
@@ -44,15 +45,21 @@ spring boot 它的设计目的就是为例简化开发，开启了各种自动�
 
 ```
 - src
-	-main
-		-java
-			-package
-				-SpringbootApplication
-		-resouces
-			- statics
-			- templates
-			- application.yml
-	-test
+    -main
+        -java
+            -package
+                #主函数，启动类，运行它如果运行了 Tomcat、Jetty、Undertow 等容器
+                -SpringbootApplication	
+        -resouces
+            #存放静态资源 js/css/images 等
+            - statics
+            #存放 html 模板文件
+            - templates
+            #主要的配置文件，SpringBoot启动时候会自动加载application.yml/application.properties		
+            - application.yml
+    #测试文件存放目录		
+    -test
+ # pom.xml 文件是Maven构建的基础，里面包含了我们所依赖JAR和Plugin的信息
 - pom
 ```
 

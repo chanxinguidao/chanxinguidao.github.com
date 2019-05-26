@@ -302,11 +302,17 @@ public class ServiceRibbonApplication {
 
 ![](https://chanxinguidao.github.io/assets/images/springcloud/chapter4/3.png)
 
-点击monitor stream，进入下一个界面，访问：http://localhost:8764/hi?name=forezp
+输入：http://localhost:8777/hystrix.stream
+
+点击monitor stream，进入下一个界面，访问：[http://localhost:8777/helloRibbon?name=RibbonHy](http://localhost:8777/helloRibbon?name=RibbonHy)
 
 此时会出现监控界面：
 
 ![](https://chanxinguidao.github.io/assets/images/springcloud/chapter4/4.png)
+
+feign的原理一样：
+
+已经在代码中添加此处不再赘述
 
 本文源码下载：<https://github.com/chanxinguidao/SpringCloudLearning/tree/master/chapter4>
 

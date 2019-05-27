@@ -7,23 +7,23 @@
 
 # Site settings
 title: 生命不息 代码不止 # ex. I m Chuan
-name: 禅心诡道 # ex. DONGChuan
+name: 禅心诡道 # ex. Jekyll
 email: 693196756@qq.com
 location: 点我点我点我 # ex. Nice, France
 location_url: https://chanxinguidao.github.io/website.html # ex. Nice, France
 company: 每一份教程，我都会亲手敲一遍，如果你学习过程遇到问题，欢迎留言(点我查看技能树)。
 company_url: https://www.processon.com/view/5c89f14ae4b0f88919ad93e1#map
-github_url: https://github.com/chanxinguidao # ex. https://github.com/DONGChuan
-github_username: chanxinguidao # ex. DONGChuan
+github_url: https://github.com/chanxinguidao # ex. https://github.com/Jekyll
+github_username: chanxinguidao # ex. Jekyll
 subTitle: 我们熟悉的甲骨文在北京裁员了!而你还不认真学习！
 subTitle_url: https://mp.weixin.qq.com/s/J5IMG0P4PKpUTofCTuZlgA
 description: 而立之年，方知代码才是真爱
 favicon: favicon.png # Image must be in assets/images
-repository: github.com/chanxinguidao/chanxinguidao.github.com # ex. DONGChuan/DONGChuan.github.io
+repository: github.com/chanxinguidao/chanxinguidao.github.com # ex. Jekyll/Jekyll.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
-# For production, use your github page url. ex. http://dongchuan.github.io
+# For production, use your github page url. ex. http://Jekyll.github.io
 url: https://chanxinguidao.github.io
 
 ## Gem
@@ -51,7 +51,7 @@ kramdown:
   enable_coderay: true
 
 # Disque
-disque: my_disque_settings # ex. httpdongchuangithubio.disqus.com
+disque: my_disque_settings # ex. httpJekyllgithubio.disqus.com
 
 # Pagination
 paginate: 10
@@ -115,10 +115,10 @@ analytics :
 
 
 # For about.html. Fell free to create your own!
-skill_software_keywords: [Java, C, C++, Qt, Python, MySQL, Oracle, SQLite, PL/SQL, Design Patterns]
-skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP]
-skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax, AngularJS, NodeJS, ExpressJS, MongoDB, Redis, PHP, Symfony, Boostrap]
-skill_mobile_app_keywords: [Android, Sketch UI Desgin]
+skill_software_keywords: [Java, C, C++, Python, MySQL, Oracle,Docker,Linux,  PL/SQL, Design Patterns]
+skill_j2ee_keywords: [Spring, Struct, Hibernet, MyBatis, JSP ,SpringBoot,SpringCloud ]
+skill_web_keywords: [HTML, CSS, JS, JQuery, Ajax,  MongoDB, Redis, PHP,  Boostrap]
+skill_mobile_app_keywords: []
 
 # ---------------- #
 #      Comments    #

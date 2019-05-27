@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb5dcfeb-38a6-4f3e-8831-0a069f276fb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/FreeMarker.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/files/《阿里巴巴Java开发手册（纪念版）》.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives.md" beforeDir="false" afterPath="$PROJECT_DIR$/archives.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/files/CV_Chuan_Dong_FR.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1628">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="616">
+              <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -38,11 +36,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            <state relative-caret-position="396">
+              <caret line="17" column="42" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -135,8 +133,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>y_disque_settin</find>
-      <find>embed.j</find>
       <find>disqus_thread</find>
       <find>disqus-comments.html</find>
       <find>gitalk.rende</find>
@@ -165,6 +161,8 @@
       <find>设计模式</find>
       <find>docker</find>
       <find>CV_Chuan_Dong_FR</find>
+      <find>Design P</find>
+      <find>dongchuan</find>
     </findStrings>
     <replaceStrings>
       <replace>(https://chanxinguidao.github.io/assets/images/</replace>
@@ -173,6 +171,8 @@
       <replace>https://chanxinguidao.github.io</replace>
       <replace>FreeMarker</replace>
       <replace>《阿里巴巴Java开发手册（纪念版）》</replace>
+      <replace />
+      <replace>Jekyll</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -215,7 +215,6 @@
         <option value="$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第3篇：feign.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第4篇：Hystrix.md" />
         <option value="$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第5篇：Zuul.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2019-05-26-SpringCloud教程第6篇：config.md" />
         <option value="$PROJECT_DIR$/spring-cloud.md" />
         <option value="$PROJECT_DIR$/java-thread.md" />
@@ -224,14 +223,15 @@
         <option value="$PROJECT_DIR$/docker.md" />
         <option value="$PROJECT_DIR$/archives.md" />
         <option value="$PROJECT_DIR$/FreeMarker.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -276,7 +276,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558950507435" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558951162984" />
     <property name="editorconfig.notification" value="ignore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCloudLearning/chapter0/service-feign" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -327,14 +327,7 @@
       <workItem from="1558739236199" duration="8208000" />
       <workItem from="1558831250878" duration="378000" />
       <workItem from="1558832422361" duration="9241000" />
-      <workItem from="1558919440607" duration="2340000" />
-    </task>
-    <task id="LOCAL-00010" summary="111">
-      <created>1558566756448</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1558566756448</updated>
+      <workItem from="1558919440607" duration="2912000" />
     </task>
     <task id="LOCAL-00011" summary="扫盲">
       <created>1558567076246</created>
@@ -672,17 +665,24 @@
       <option name="project" value="LOCAL" />
       <updated>1558920731077</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="日常维护">
+      <created>1558950535890</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1558950535891</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45641000" />
+    <option name="totallyTimeSpent" value="46213000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28150135" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2238806" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -1032,13 +1032,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1628">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1051,8 +1044,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        <state relative-caret-position="396">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="28" column="6" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="6" />
         </state>
       </provider>
     </entry>

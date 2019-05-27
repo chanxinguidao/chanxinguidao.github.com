@@ -2,7 +2,11 @@
 layout: page
 title: All articles are here
 titlebar: archives
-subtitle: <span class="mega-octicon octicon-calendar"></span>&nbsp;&nbsp;专题系列： &nbsp;&nbsp; <a href ="https://chanxinguidao.github.io/arch.html"><font color="#1A0DAB">架构</font></a>&nbsp;&nbsp; <a href ="https://chanxinguidao.github.io/designmodel.html"><font color="#EB9439">设计模式</font></a>&nbsp;&nbsp; <a href ="https://chanxinguidao.github.io/docker.html"><font color="#1E90FF">Docker</font></a>
+subtitle: <span class="mega-octicon octicon-calendar"></span>&nbsp;&nbsp;专题系列： &nbsp;&nbsp; 
+<a href ="https://chanxinguidao.github.io/arch.html"><font color="#1A0DAB">架构</font></a>&nbsp;&nbsp; 
+<a href ="https://chanxinguidao.github.io/designmodel.html"><font color="#EB9439">设计模式</font></a>&nbsp;&nbsp; 
+<a href ="https://chanxinguidao.github.io/docker.html"><font color="#1E90FF">Docker</font></a>&nbsp;&nbsp;
+<a href ="https://chanxinguidao.github.io/FreeMarker.html"><font color="#6E97FF">FreeMarker</font></a>&nbsp;&nbsp;
 menu: archives
 css: ['blog-page.css']
 permalink: /archives.html

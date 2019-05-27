@@ -3,7 +3,7 @@ layout: page
 title: Java线程系列文章
 titlebar: java-thread
 subtitle: <span class="mega-octicon octicon-cloud-upload"></span>&nbsp;&nbsp;
-     <a href ="http://www.goktech.cn">关注公众号：<font color="#00FF00">禅心诡道</font>，回复"springcloud"进群交流。</a>
+     <a href ="http://www.goktech.cn">关注：<font color="#00FF00">禅心诡道</font>，提供一站式学习资源。</a>
 menu: java-thread
 css: ['blog-page.css']
 permalink: /java-thread

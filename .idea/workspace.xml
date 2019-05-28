@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb5dcfeb-38a6-4f3e-8831-0a069f276fb2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1556947996415.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1556948014086.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1557656773523.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1558590654087.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048153828.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048201573.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048348952.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048365745.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048381854.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048402246.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048465222.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048537614.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048540791.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048693001.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048769614.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048868582.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559048992954.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559049046075.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559049103616.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559049154194.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559049226975.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559049275499.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559049653428.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559049721352.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/typora/1559049922262.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-27-Spring Boot教程第篇：.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-28-Jenkins教程第0篇：小试牛刀.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-28-Jenkins教程第0篇：小试牛刀.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -339,7 +314,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559050133666" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559050273763" />
     <property name="editorconfig.notification" value="ignore" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringCloudLearning/chapter0/service-feign" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -348,15 +323,15 @@
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\images\springcloud\chapter2" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\images\typora" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\files" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\_includes" />
       <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\images" />
-      <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\69319\Documents\chanxinguidao.github.com\assets\images\springcloud\chapter2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -394,14 +369,7 @@
       <workItem from="1559005614320" duration="4487000" />
       <workItem from="1559033888900" duration="118000" />
       <workItem from="1559041630113" duration="899000" />
-      <workItem from="1559047255328" duration="912000" />
-    </task>
-    <task id="LOCAL-00016" summary="SpringCloud教程第1篇：Eureka">
-      <created>1558595687940</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1558595687940</updated>
+      <workItem from="1559047255328" duration="1652000" />
     </task>
     <task id="LOCAL-00017" summary="SpringCloud教程第1篇：Eureka">
       <created>1558595709939</created>
@@ -739,15 +707,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559008704999</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Jenkins+maven+git+tomcat">
+      <created>1559050235616</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1559050235617</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52629000" />
+    <option name="totallyTimeSpent" value="53369000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29624665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -810,7 +784,8 @@
     <MESSAGE value="zuul 路由 跟网络的路由一个意思" />
     <MESSAGE value="日常维护" />
     <MESSAGE value="首页加个音效" />
-    <option name="LAST_COMMIT_MESSAGE" value="首页加个音效" />
+    <MESSAGE value="Jenkins+maven+git+tomcat" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jenkins+maven+git+tomcat" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">

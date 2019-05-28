@@ -22,7 +22,7 @@
         <nav class="site-header-nav" role="navigation">
             {% for nav in site.navs %}
             <div class="{% if page.menu == nav.label %} selected {% endif %} site-header-nav-item hvr-underline-from-center">
-                <a href="{{ nav.href }}" class="glyphicon-music"
+                <a href="{{ nav.href }}" class="music"
                    target="{{ nav.target | default: _self }}"
                    title="{{ nav.label }}">
                     {{ nav.label }}
@@ -48,7 +48,7 @@
         }
 
 // 按钮元素
-        var eleButtons = document.getElementsByClassName('glyphicon-music');
+        var eleButtons = document.getElementsByClassName('music');
 
 
 // 创建新的音频上下文接口

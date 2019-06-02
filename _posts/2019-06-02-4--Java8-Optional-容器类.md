@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Java8简介"
+date:   2019-06-02 20:25:35 +0200
+categories: JavaBase
+category: JavaBase
+---
 # Optional容器类
 
 >　用于尽量避免空指针异常

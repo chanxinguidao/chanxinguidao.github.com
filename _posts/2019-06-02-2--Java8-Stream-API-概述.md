@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Java8简介"
+date:   2019-06-02 20:25:35 +0200
+categories: JavaBase
+category: JavaBase
+---
 # 基本操作步骤
 
 1. 创建Stream
